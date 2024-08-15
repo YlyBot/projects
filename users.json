@@ -1,0 +1,52 @@
+{
+    "q": {
+        "password": "q",
+        "balance": 355099.0,
+        "own_code": "testing",
+        "name": "Ilia",
+        "surname": "Shkedov",
+        "age": "17",
+        "is_admin": true
+    },
+    "\u0438\u043b\u044c\u044f \u043b\u043e\u0445": {
+        "password": "\u0447\u043c\u043e228",
+        "balance": 230201.05,
+        "own_code": "00000000000000000228"
+    },
+    "Yly_Admin": {
+        "password": "POR77zn@",
+        "balance": 35300.71,
+        "own_code": "00000000000000000000",
+        "is_admin": true
+    },
+    "DKadmin": {
+        "password": "bestteacher",
+        "balance": 1100,
+        "own_code": "7xHLyDKEYPhceBr3MBvV",
+        "cards": [],
+        "name": "Admin",
+        "surname": "User",
+        "age": 0,
+        "is_admin": true
+    },
+    "YlyGod": {
+        "password": "@2348ZW@LGFD",
+        "balance": 100.0,
+        "own_code": "SVENgBO1pawcsNXwBIsF",
+        "cards": [],
+        "name": "Ilia",
+        "surname": "Shkedov",
+        "age": 17,
+        "is_admin": true
+    },
+    "Meany": {
+        "password": "123456",
+        "balance": 900.0,
+        "own_code": "cDM0EFp0yb5LciT8pegU",
+        "cards": [],
+        "name": "\u0418\u0432\u0430\u043d",
+        "surname": "\u042d\u043f\u043e\u0432",
+        "age": "12",
+        "is_admin": true
+    }
+}
